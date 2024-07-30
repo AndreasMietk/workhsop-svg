@@ -1,5 +1,10 @@
 # Workshop: Erstellung eines interaktiven SVG-Viewers
 
+Lokalen server starten:
+```bash
+python -m http.server
+```
+
 ## Aufgaben
 
 ### 1. SVG Loader
